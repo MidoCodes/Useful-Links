@@ -1,10 +1,18 @@
 # Websites I Read
-1.) https://rosettacode.org/wiki/Category:Programming_Tasks
 
-2.) https://www.freecodecamp.org/learn/
+Problem Solving
+----
+* https://projecteuler.net/progress
+* https://rosettacode.org/wiki/Category:Programming_Tasks
 
-3.) https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
+Course/Project Based Learning
+----
+* https://www.freecodecamp.org/learn/
+* https://github.com/practical-tutorials/project-based-learning
+* https://fullstackopen.com/en/#course-contents
 
-4.) https://projecteuler.net/progress
-
-5.) https://r4ds.had.co.nz/
+MOOC (Open Courses) / Books
+----
+* https://r4ds.hadley.nz/
+* https://fullstackopen.com/en/#course-contents
+* https://www.mooc.org/courses
